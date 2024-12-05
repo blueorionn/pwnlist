@@ -1,0 +1,13 @@
+.cache
+.vscode
+.work
+
+# Future ideas
+.todo/
+.idea/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore secrets
+.env
