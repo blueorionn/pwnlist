@@ -13,6 +13,9 @@ def validate_date(date_string):
 def main(sd_date_string: str, ed_date_string: str):
     """
     Main function to generate and store dates
+
+    :param sd_date_string: Start Date in string format (e.g., 01-01-1970).
+    :param ed_date_string: End Date in string format (e.g., 31-12-2020)
     """
 
     # Extracting value
