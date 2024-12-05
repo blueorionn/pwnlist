@@ -15,12 +15,12 @@ Sponsor this project
 ### Git
 
 ```bash
-  git clone https://github.com/blueorionn/pwnlist
+git clone https://github.com/blueorionn/pwnlist
 ```
 
 ### Zip
 ```bash
-    wget -c https://github.com/blueorionn/pwnlist/archive/master.zip -O pwnlist.zip
+wget -c https://github.com/blueorionn/pwnlist/archive/master.zip -O pwnlist.zip
 ```
 
 
